@@ -4,7 +4,7 @@
 
 Computational framework for modeling neural activity with continuous latent Langevin dynamics. 
 
-Quick installation: ```pip install git+https://github.com/engellab/neuralflow```
+Quick installation: ```pip install git+https://github.com/DataIntuitions/neuralflow-master/```
 
 The source code for the following publications:
 
@@ -23,11 +23,11 @@ The source code for the following publications:
 **Free access:** https://rdcu.be/b9cW3
 
 ## Installation
-Package only: pip install git+https://github.com/engellab/neuralflow
+Package only: pip install git+https://github.com/DataIntuitions/neuralflow-master/
 
 Package with examples: 
 
-    git clone https://github.com/engellab/neuralflow
+    git clone https://github.com/DataIntuitions/neuralflow-master/
     cd neuralflow
     pip install .
 
